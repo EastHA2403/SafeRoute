@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+pandas
+networkx
+psutil
+pytest>=8.3,<9
+httpx
+
